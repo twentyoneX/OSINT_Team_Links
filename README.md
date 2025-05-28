@@ -271,7 +271,7 @@ Slack Team: https://openosint.slack.com
 [URLVoid](http://www.urlvoid.com/)<br>
 [Website Informer](http://website.informer.com/)<br>
 [ewhois](https://ewhois.com/)<br>
-[WhatIsMyIPAddress](http://whatismyipaddress.com/)<br>
+[PeekMyIP](https://www.peekmyip.com/)<br>
 [Who.is](https://who.is/)<br>
 [Whois Arin Online](https://whois.arin.net/)<br>
 [Whoisology](https://whoisology.com/)<br>
